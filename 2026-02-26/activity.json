@@ -3,8 +3,8 @@
   "projects": {
     "shadcn-admin-kit-main (Workspace)": {
       "totalLinesAdded": 70,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 12,
+      "totalLinesRemoved": 6,
+      "totalActiveTime": 13,
       "files": {
         "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.vscode\\extensions.json": [
           {
@@ -99,6 +99,20 @@
             "fileType": ".json",
             "linesAdded": 1,
             "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-02-27T00:06:59.126Z",
+            "fileName": "c:\\Users\\jaden.black\\AppData\\Roaming\\Antigravity\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "shadcn-admin-kit-main (Workspace)",
             "content": {
               "added": [],
