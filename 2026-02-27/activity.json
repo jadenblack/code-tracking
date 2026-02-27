@@ -2,7 +2,7 @@
   "date": "2026-02-27",
   "projects": {
     "shadcn-admin-kit-main (Workspace)": {
-      "totalLinesAdded": 465,
+      "totalLinesAdded": 470,
       "totalLinesRemoved": 91,
       "totalActiveTime": 32,
       "files": {
@@ -456,6 +456,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\vitest.global-setup.ts": [
+          {
+            "timestamp": "2026-02-27T07:50:28.747Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\vitest.global-setup.ts",
+            "fileType": ".ts",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ts"
           }
         ]
       },
