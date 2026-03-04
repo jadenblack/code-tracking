@@ -2,7 +2,7 @@
   "date": "2026-03-04",
   "projects": {
     "shadcn-admin-kit-main (Workspace)": {
-      "totalLinesAdded": 1851,
+      "totalLinesAdded": 1852,
       "totalLinesRemoved": 177,
       "totalActiveTime": 84,
       "files": {
@@ -237,6 +237,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-04T19:40:36.843Z",
+            "fileName": "c:\\Users\\jaden.black\\AppData\\Roaming\\Antigravity\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
