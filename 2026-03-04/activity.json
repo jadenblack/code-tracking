@@ -2,9 +2,9 @@
   "date": "2026-03-04",
   "projects": {
     "shadcn-admin-kit-main (Workspace)": {
-      "totalLinesAdded": 447,
-      "totalLinesRemoved": 8,
-      "totalActiveTime": 21,
+      "totalLinesAdded": 545,
+      "totalLinesRemoved": 89,
+      "totalActiveTime": 32,
       "files": {
         "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.gitignore": [
           {
@@ -59,6 +59,20 @@
             "fileType": ".json",
             "linesAdded": 101,
             "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-04T17:25:13.088Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\package.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 81,
             "projectName": "shadcn-admin-kit-main (Workspace)",
             "content": {
               "added": [],
@@ -186,6 +200,20 @@
             },
             "duration": 1,
             "language": "json"
+          },
+          {
+            "timestamp": "2026-03-04T17:24:16.742Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ],
         "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\website\\package.json": [
@@ -264,6 +292,96 @@
             },
             "duration": 1,
             "language": "ts"
+          }
+        ],
+        "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\components\\admin\\theme-provider.tsx": [
+          {
+            "timestamp": "2026-03-04T17:24:01.031Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\components\\admin\\theme-provider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 54,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-04T17:24:01.331Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\components\\admin\\theme-provider.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\demo\\App.tsx": [
+          {
+            "timestamp": "2026-03-04T17:24:32.534Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\demo\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-04T17:24:32.736Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\demo\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          },
+          {
+            "timestamp": "2026-03-04T17:24:47.796Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\src\\demo\\App.tsx",
+            "fileType": ".tsx",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "tsx"
+          }
+        ],
+        "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\.env": [
+          {
+            "timestamp": "2026-03-04T17:26:50.140Z",
+            "fileName": "c:\\Users\\jaden.black\\alignsynch.com\\mono-apps\\shadcn-admin-kit-main\\.worktrees\\turborepo-migration\\apps\\admin-kit\\.env",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "unknown"
           }
         ]
       },
