@@ -2,7 +2,7 @@
   "date": "2026-03-04",
   "projects": {
     "shadcn-admin-kit-main (Workspace)": {
-      "totalLinesAdded": 1811,
+      "totalLinesAdded": 1812,
       "totalLinesRemoved": 177,
       "totalActiveTime": 78,
       "files": {
@@ -793,6 +793,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2026-03-04T19:17:28.389Z",
+            "fileName": "c:\\Users\\jaden.black\\.gemini\\antigravity\\scratch\\shadcn-turborepo-migration\\apps\\website\\package.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "shadcn-admin-kit-main (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ],
